@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DataMaven1
+- 👋 Hi, I’m @datamaven1
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Software Engineering at ALX
 - 💞️ I’m looking to collaborate on design projects.
